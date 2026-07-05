@@ -1,7 +1,7 @@
 # Cross-Domain LLM Recommendation: Solving Cold-Start with Language Models
 
 **Research paper:** *Bridging the Gap: Using Large Language Models to Solve Cold-Start Problems in Cross-Domain Recommendation*  
-**Author:** Soumya &nbsp;·&nbsp; MSc Data Science for Business, HEC Paris &nbsp;·&nbsp; 2026
+**Author:** Soumyabrata Bairagi &nbsp;·&nbsp; MSc Data Science for Business, HEC Paris &nbsp;·&nbsp; 2026
 
 ---
 
@@ -159,7 +159,7 @@ The headline test uses a crossover-design regression — an interaction term bet
 If you use this code or build on this work, please cite:
 
 ```
-Soumya (2026). Bridging the Gap: Using Large Language Models to Solve 
+Soumyabrata Bairagi (2026). Bridging the Gap: Using Large Language Models to Solve 
 Cold-Start Problems in Cross-Domain Recommendation. 
 MSc Research Paper, HEC Paris.
 ```
